@@ -1,0 +1,4 @@
+title My Blog
+import header.scroll
+printSnippets All
+import footer.scroll
