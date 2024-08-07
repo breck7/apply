@@ -30,8 +30,9 @@ otherideas none
 whyyc we like the color orange
 referrer aaronsw
 
-usersboolean true
-revenueboolean true
-legalentityboolean no
-investmentboolean no
-currentlyfundraisingboolean no
+users true
+revenue true
+legalentity false
+investment false
+currentlyfundraising false
+

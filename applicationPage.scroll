@@ -1,3 +1,4 @@
 buildHtml
 
 import ycApp.parsers
+testStrict

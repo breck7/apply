@@ -1,5 +1,6 @@
 idParser
  extends abstractIdParser
+ crux id
  float sortIndex 0.1
 
 foundersParser
