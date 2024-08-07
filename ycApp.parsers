@@ -1,3 +1,7 @@
+idParser
+ extends abstractIdParser
+ float sortIndex 0.1
+
 foundersParser
  description Who are your founders?
  extends abstractStringMeasureParser

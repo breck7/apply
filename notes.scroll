@@ -1,5 +1,3 @@
-
-
 # Attack Plan
 
 SmartPipes is a startup to applying to Yc
@@ -8,6 +6,3 @@ SmartPipes is a startup to applying to Yc
  [x] Write ycApp.parsers
   [] Write Javascript snippet to take smartpipes.scroll and autofill the "classic" yc web form. (web 2.0 form?)
    [] Make a traditional form powerered by ycApp.parsers
-
-
-

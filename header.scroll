@@ -1,7 +1,8 @@
 importOnly
-metaTags
-buildTxt
 buildHtml
+buildTxt
+
+metaTags
 gazetteCss
 pageHeader
 printTitle

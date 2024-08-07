@@ -1,10 +1,12 @@
 import ../applicationPage.scroll
 
 id smartpipes
+
 founders joe
 technicalwork joe does it
 cofoundersearching no
 foundervideo abcdf
+
 companyname Smart Pipes
 doeswhat Smart toilets.
 companyurl https://smartpipes.com
@@ -13,19 +15,23 @@ projectlink https://smartpipes.com/demo/
 makewhat Measure your poo
 location hawaii
 locationexplanation its paradise man
+
 currentstage pre-ipo
 timeinvested two decades
 techstack scroll
-usersboolean true
-revenueboolean true
 pivothistory always pivoting
+
 whythis people flush their data down the drain
 competitors cartoon network
 businessmodel pay per flush and we could make a penny per flush then we could make 100 million a day
 category health data
 otherideas none
+
+whyyc we like the color orange
+referrer aaronsw
+
+usersboolean true
+revenueboolean true
 legalentityboolean no
 investmentboolean no
 currentlyfundraisingboolean no
-whyyc we like the color orange
-referrer aaronsw

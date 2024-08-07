@@ -1,13 +1,10 @@
 title My Blog
+
 import header.scroll
-
-
-
 
 // Apply is a microlang for web forms.
 
 // YCApp is a dialect of Apply, for applying to YC.
-
 
 printSnippets All
 import footer.scroll
