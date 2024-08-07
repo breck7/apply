@@ -1,6 +1,4 @@
-// Apply is a microlang for web forms.
-
-// YCApp is a dialect of Apply, for applying to YC.
+import ../applicationPage.scroll
 
 
 
@@ -94,3 +92,8 @@ Make sure the file does not exceed 100 MB. Read more about the video here.
 
 ? How did you hear about Y Combinator?
 
+
+
+
+founders,technicalWork,cofounderSearching,founderVideo,companyName,doesWhat,companyUrl,demoVideo,projectLink,credentials,makeWhat,location,locationExplanation,currentStage,timeInvested,techStack,usersBoolean,revenueBoolean,pivotHistory,whyThis,competitors,businessModel,category,otherIdeas,legalEntityBoolean,investmentBoolean,currentlyFundraisingBoolean,whyYC,referrer
+joe,joe does it,no,abcdf,Smart Pipes,Smart toilets.,https://smartpipes.com,3213,https://smartpipes.com/demo/,,Measure your poo,hawaii,its paradise man,pre-ipo,two decades,scroll,true,true,always pivoting,people flush their data down the drain,cartoon network,pay per flush and we could make a penny per flush then we could make 100 million a day,health data,none,no,no,no,we like the color orange,aaronsw
